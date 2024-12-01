@@ -31,7 +31,7 @@ Machine learning-based customer segmentation enables analysts to categorize cust
 
 ## 2. Data Understanding
 
-**Data Source:** This project used a dataset prepared for academic purposes called “data_clients” and available in this [link]([url](https://drive.google.com/file/d/1qrIZ3nk6CWXUlUFFBCrhio_aMGNKZnBs/view)), a structured dataset. 
+**Data Source:** This project used a dataset prepared for academic purposes called “data_clients” and available in this [link](https://drive.google.com/file/d/1qrIZ3nk6CWXUlUFFBCrhio_aMGNKZnBs/view), a structured dataset. 
 
 **Tools**: Python, Power BI.
 
@@ -87,7 +87,7 @@ The elbow method was used to choose the best k and calculate the Sum of Squared 
 ## 10.Data visualization
 
 After building the model, it was connected to Power BI using the “Powerbiclient” library in Google Colab with Python.
-The dashboard can be visualized here [[Dashboard](urlhttps://app.powerbi.com/links/IDFrEPiyWI?ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757&pbi_source=linkShare)]
+The dashboard can be visualized here [Dashboard](https://app.powerbi.com/links/IDFrEPiyWI?ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757&pbi_source=linkShare)
 
 ## 11. Communication and Action
 
@@ -99,11 +99,11 @@ After segmentation, it becomes possible to understand the shared characteristics
 
 # References
 
-IBM. (n.d.). What is machine learning (ML)?
+IBM. (n.d.). _What is machine learning (ML)_?
 [https://www.ibm.com/topics/machine-learning] 
 
 
-Idiomatic.(n.d.). How to use machine learning for customer segmentation?
+Idiomatic.(n.d.). _How to use machine learning for customer segmentation_?
 [https://idiomatic.com/] 
 
 
