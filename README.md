@@ -24,10 +24,12 @@ The following topics will be presented:
 ## 1. Business Understanding
 
 
-The business has a variety of customers and abundant data in your databases. The challenge for many businesses arises when it is time to leverage this data for strategic decisions. While manually identifying patterns and making conclusions is impossible, it is a complex and lengthy process.
-
-Fortunately, algorithms can tackle customer segmentation by detecting patterns and performing analyses. These systems efficiently and accurately identify distinct groups and trends from your data points.
-Machine learning-based customer segmentation enables analysts to categorize customer databases based on shared traits, which helps identify trends and create more focused marketing strategies and special offers, for instance. Traditionally, this segmentation is done using demographic characteristics such as gender, size, and location. My objective in this project is to use machine learning to segment customers into different groups based on historical data and their characteristics, and to report the results to stakeholders using Power BI visualizations, while also exploring its integration with Python.
+* The business has a variety of customers and abundant data in your databases. The challenge for many businesses arises when it is time to leverage this data for strategic decisions. While manually identifying patterns and making conclusions is impossible, it is a complex and lengthy process.
+* Machine learning-based customer segmentation enables analysts to categorize customer databases based on shared traits, which helps identify trends and create more focused marketing strategies and special offers, for instance. Traditionally, this segmentation is done using demographic characteristics such as gender, size, and location. 
+* My objective in this project was to use **machine learning** to segment customers into different groups based on historical data and their characteristics, and to report the results to stakeholders using **Power BI visualizations** and **diagram method**, while also exploring its **integration with Python**.
+* After segmentation, it becomes possible to understand the shared characteristics of customers, enabling companies to better address their needs and define business strategies more effectively.
+* It was identifyed the **high-value customer groups** and provided strategic tailor **strategies**.
+* This allows the marketing department to personalize strategies to enhance customer engagement in advertisements. Ultimately, businesses can maximize their impact and profitability.
 
 ## 2. Data Understanding
 
