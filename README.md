@@ -91,6 +91,9 @@ The elbow method was used to choose the best k and calculate the Sum of Squared 
 After building the model, it was connected to Power BI using the “Powerbiclient” library in Google Colab with Python.
 The dashboard can be visualized here [Dashboard](https://app.powerbi.com/links/IDFrEPiyWI?ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757&pbi_source=linkShare)
 
+<img width="641" alt="Screen Shot 2025-02-07 at 6 20 42 PM" src="https://github.com/user-attachments/assets/b3e4c684-8473-4098-b7e9-c295cacf1a4b" />
+
+
 ## 11. Communication and Action
 
 After segmentation, it becomes possible to understand the shared characteristics of customers, enabling companies to better address their needs and define business strategies more effectively. Here, we can clearly see the differences in age among the groups. This allows the marketing department to personalize strategies to enhance customer engagement in advertisements. Ultimately, businesses can maximize their impact and profitability.
