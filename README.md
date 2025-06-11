@@ -5,20 +5,20 @@ Cristiane Mecca Giacomazzi (Data Analyst)
 This project was developed with Cross-industry standard process for data mining (CRISP-DM) methodology.
 
 The following topics will be presented:
-### 1. Business Understanding
-### 2. Data Understanding
-### 3. Ethical Statements
-### 4. Data Preparation
-### 5. Dictionary
-### 6. Libraries used for this project
-### 7. Project plan
-### 8. Analysis  
-### 9. EDA
-### 10. Segmentation results
-### 11. Metrics
-### 12. Data visualization
-### 13. Communication and Action
-### 14. Diagram
+**1. Business Understanding
+2. Data Understanding
+3. Ethical Statements
+4. Data Preparation
+5. Dictionary
+6. Libraries used for this project
+7. Project plan
+8. Analysis  
+9. EDA
+10. Segmentation results
+11. Metrics
+12. Data visualization
+13. Communication and Action
+14. Diagram**
 
 ----------
 ## 1. Business Understanding
